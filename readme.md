@@ -8,7 +8,6 @@ Projeto da disciplina ci067 de 2016/2
 - Manipulação de arquivos e uso de Makefile;
 
 ## Compilação:
-## Makefile:
 - *make:* compilação do código e criação do executável "ortografia"
 - *make clean:* remove arquivos temporários
 - *make purge:* executa o make clean e deleta o executável
@@ -24,4 +23,4 @@ sudo apt-get install wbrazilian
 ./ortografia < entrada.txt > saida.txt
 ``` 
  
-### Obs.: Para alteração do idioma, basta alterar o caminho do dicionário na função ledicionario()
+## Obs.: Para alteração do idioma, basta alterar o caminho do dicionário na função ledicionario()
