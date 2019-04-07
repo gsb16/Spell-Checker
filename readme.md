@@ -23,4 +23,4 @@ sudo apt-get install wbrazilian
 ./ortografia < entrada.txt > saida.txt
 ``` 
  
-## Obs.: Para alteração do idioma, basta alterar o caminho do dicionário na função ledicionario()
+### Obs.: Para alteração do idioma, basta alterar o caminho do dicionário na função ledicionario()
